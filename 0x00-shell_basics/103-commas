@@ -1,2 +1,2 @@
-#!bin/bas
-ls -pamv
+#!/bin/bash
+ls -amp | sort -d 
